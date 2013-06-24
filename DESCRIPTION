@@ -4,7 +4,7 @@ Title: Multicore enabled versions of consensus clustering method using fast and 
 Version: 0.1
 Date: 2013-06-19
 Maintainer: Tadeusz Tagowski <tadtagov@gmail.com>
-Author: Tadeusz Tagowski <tadtagov@gmail.com>
+Author: Tadeusz Tagowski and Olgierd Unold 
 Description: Package contains methods for performing heavy consensus clustering algorithms using multicore processors. One (mcmergecons) implements parallel version of Merge Consensus, originally found in package clusterCons. Other (mcfastmergecons) implements Fast Merge Consensus Clustering that is a parallel version of sped-up of Merged Consensus Clustering. This package was based on clusterCons package.
 Depends: cluster, parallel, doMC, foreach, plyr, clusterCons
 License: GPL-3

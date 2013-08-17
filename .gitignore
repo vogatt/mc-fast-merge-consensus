@@ -1,2 +1,5 @@
 *.Rproj
 *.RData
+.Rproj.user
+*.Rbuildignore
+*.Rhistory
